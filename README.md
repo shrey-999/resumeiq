@@ -1,2 +1,0 @@
-# resumeiq
-resume matcher
