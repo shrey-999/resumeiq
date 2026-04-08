@@ -1,4 +1,4 @@
-# Demo Video link : https://www.loom.com/share/c00431b24b1c4f53b7b6da95a7e639e3
+
 # AI Resume-Job Matcher
 
 A professional and efficient tool to evaluate candidate resumes against job descriptions. This application processes multiple resumes, ranks them by relevance, and provides actionable insights based on rule-based heuristics and optional LLM enhancements.
